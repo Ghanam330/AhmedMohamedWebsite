@@ -48,14 +48,14 @@ const RESOURCES = {
 "assets/assets/whatsapp.png": "e33ef8b852729cd9dd7c6af3837f9b23",
 "assets/FontManifest.json": "53db916e40f5cd339f7e07ff4f1303a1",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "d6159ada2a79249622caf04e288e825d",
+"assets/NOTICES": "c649bff54112f2890f5b1a05baeda592",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "61b493df9635f221d909421e8769acb0",
 "icons/Icon-192.png": "002516a4b23f153b7ac2928347c377b1",
 "icons/Icon-512.png": "84780d2dfe97536ad1b68213079cc78b",
-"index.html": "8aa26fac6b974aad51084924b4249e47",
-"/": "8aa26fac6b974aad51084924b4249e47",
-"main.dart.js": "a98f55e9c1748d706b3da45785205a6b",
+"index.html": "40219fd75480a85a155958d37a613659",
+"/": "40219fd75480a85a155958d37a613659",
+"main.dart.js": "192b13f236d16a57f18f2ac988515afd",
 "manifest.json": "855f8f0a3619e8d27e7210678871a4b0",
 "version.json": "1cefaf2a48f42633ff4b37ffe0e9de96"
 };
