@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ab8247e-d6f3-4bd2-b8aa-fc66de4335f5" name="Default Changelist" comment="update2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9ab8247e-d6f3-4bd2-b8aa-fc66de4335f5" name="Default Changelist" comment="update3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629683174037</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update3">
+      <created>1629941559665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629941559665</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +101,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="update1" />
     <MESSAGE value="update2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update2" />
+    <MESSAGE value="update3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update3" />
   </component>
 </project>
