@@ -68593,7 +68593,7 @@ s.toString
 K.hI(s,!1).kq(0,null)},
 $S:2}
 F.abe.prototype={
-$0:function(){C.ad.qA(window,u.N,"pdf")},
+$0:function(){C.ad.qA(window,"https://drive.google.com/file/d/1zcJAYLk5mE19H43PS1FmTbKqn7HCLSwy/view?usp=sharing","pdf")},
 $S:2}
 F.abf.prototype={
 $1:function(a){this.a.sC7(!a)},
